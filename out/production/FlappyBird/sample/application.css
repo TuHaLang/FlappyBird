@@ -1,0 +1,12 @@
+.nenDat{
+    -fx-background-image: url("/image/nenDat.png");
+}
+
+.nenTroi{
+    -fx-background-image: url("/image/nenTroi.png");
+}
+
+.start_btn{
+    -fx-background-image: url("/image/start_btn.png");
+
+}
